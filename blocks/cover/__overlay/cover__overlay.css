@@ -1,6 +1,6 @@
 .cover__overlay {
   margin: 0 auto;
-  background-color: RGBA(0, 0, 0, 0.3);
+  background-color: RGBA(42, 44, 47, 0.3);
   text-align: center;
   box-sizing: border-box;
   position: relative;
@@ -16,7 +16,7 @@
 }
 
 .cover__overlay:hover {
-  background-color: RGBA(0, 0, 0, 0.8);
+  background-color: RGBA(42, 44, 47, 0.8);
 }
 
 @media screen and (max-width: 1024px) {
