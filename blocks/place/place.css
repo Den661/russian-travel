@@ -23,11 +23,14 @@
   .place {
     grid-template-columns: minmax(min-content, 340px) minmax(min-content, 352px);
     column-gap: 28px;
+    padding: 73px 0 0;
   }
 }
 
 @media screen and (max-width: 712px) {
   .place {
     grid-template-columns: auto;
+    gap: 32px;
+    padding: 50px 0 0;
   }
 }

@@ -10,12 +10,14 @@
 @media screen and (max-width: 810px) {
   .footer {
     max-width: calc(100% - 48px);
+    padding: 88px 0 24px;
   }
 }
 
-@media screen and (max-width: 777px) {
+@media screen and (max-width: 767px) {
   .footer {
     flex-direction: column;
     gap: 42px;
+    padding: 64px 0 24px;
   }
 }
