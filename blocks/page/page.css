@@ -9,4 +9,5 @@
   margin: 0 auto;
   padding: 0;
   text-rendering: optimizeLegibility;
+  min-width: 320px;
 }
